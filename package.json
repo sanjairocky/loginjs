@@ -1,0 +1,9 @@
+{
+  "name": "@sanjairocky/loginjs",
+  "version": "1.0.1",
+  "description": "simple & lightweight library for social login",
+  "main": "index.js",
+  "repository": "https://github.com/sanjairocky/loginjs.git",
+  "author": "sanjairocky",
+  "license": "MIT"
+}
